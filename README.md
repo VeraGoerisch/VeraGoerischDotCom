@@ -4,6 +4,6 @@
 
 Repo for my personal website.
 
-### Demo
+### URL
 
 [VeraGoerisch.com](http://veragoerisch.com)
