@@ -12,17 +12,32 @@
             <h2>Vera Goerisch</h2>
             <h3>Front-End Web Developer</h3>
             <el-row class="buttons">
-              <a class="button" href="#" target="_blank"
+              <a
+                class="button"
+                href="mailto:contact@veragoerisch.com"
+                @click="$event.currentTarget.blur()"
                 ><i class="far fa-envelope"></i
               ></a>
-              <a class="button" href="#" target="_blank"
+              <a
+                class="button"
+                href="https://www.linkedin.com/in/veragoerisch/"
+                target="_blank"
+                @click="$event.currentTarget.blur()"
                 ><i class="fab fa-linkedin-in"></i
               ></a>
 
-              <a class="button" href="#" target="_blank"
+              <a
+                class="button"
+                href="https://github.com/VeraGoerisch"
+                target="_blank"
+                @click="$event.currentTarget.blur()"
                 ><i class="fab fa-github"></i
               ></a>
-              <a class="button" href="#" target="_blank"
+              <a
+                class="button"
+                href="/files/resume_vera_goerisch.pdf"
+                download
+                @click="$event.currentTarget.blur()"
                 ><i class="fas fa-file-download"></i
               ></a>
             </el-row>
