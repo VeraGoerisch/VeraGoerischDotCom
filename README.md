@@ -1,24 +1,9 @@
-# vera-goerisch
+# VeraGoerisch.com
 
-## Project setup
-```
-npm install
-```
+### Project desciption
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Repo for my personal website.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Demo
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[VeraGoerisch.com](http://veragoerisch.com)
