@@ -6,4 +6,4 @@ Repo for my personal website.
 
 ### URL
 
-[VeraGoerisch.com](http://veragoerisch.com)
+[VeraGoerisch.com](https://veragoerisch.com)

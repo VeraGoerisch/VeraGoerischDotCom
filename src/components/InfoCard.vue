@@ -5,8 +5,8 @@
         ><h3>About</h3>
         <p>
           Hello! My name is Vera Goerisch and I am a web developer who loves
-          learning, challenges, and bringing ideas to life. Originally from
-          Russia, I currently reside in sunny San Diego (and I couldn't be
+          learning, solving challenges, and bringing ideas to life. Originally
+          from Russia, I currently reside in sunny San Diego (and I couldn't be
           happier about it). When I am not writing code, I can be found spending
           time with my daughter, swing dancing, hiking, backpacking, or
           otherwise exploring the beautiful outdoors. I also love traveling
@@ -47,11 +47,10 @@ export default {};
 <style scoped lang="scss">
 .el-card {
   margin: 30px auto;
-  padding-bottom: 10px;
   max-width: 90%;
   p {
-    text-align: justify;
-    padding: 0 30px;
+    text-align: left;
+    padding: 0 20px;
     .description {
       font-weight: 600;
       margin-right: 10px;
